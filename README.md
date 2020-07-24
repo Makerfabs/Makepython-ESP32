@@ -6,7 +6,7 @@ Version:		V2.0
 Author:			UNKOWN
 Create Date:	UNKOWN
 Note:
-	2020/7/23	v2.0: Rebuid readme,add pic. By Vincent
+	2020/7/24	v2.0: Rebuid readme,add pic. By Vincent
 */
 ```
 
@@ -35,4 +35,13 @@ MakePython ESP32 is preloaded with MicroPython, simple and suitable for beginner
 ## [Project_MakePython_Audio_Music](https://github.com/Makerfabs/Project_MakePython_Audio_Music)
 
 - Make a music player by yourself.
-- [YOUTUBE:Lora IoT Irrigation System - Outdoor Simulation Test](https://youtu.be/0mY6Ox0YvRk)
+- [YOUTUBE:MakePython Audio Music Play](https://www.youtube.com/watch?v=0urJ_uxfW0k&feature=youtu.be)
+
+![3](md_pic/3.jpg)
+
+## [Project_TTS-Weather-Broadcast](https://github.com/Makerfabs/Project_TTS-Weather-Broadcast)
+
+- Internet weather voice broadcast by TTS(Text to Speech).
+- [YOUTUBE:TTS-Weather-Broadcast](https://youtu.be/00nAEQKYFV4)
+
+![4](md_pic/4.jpg)
