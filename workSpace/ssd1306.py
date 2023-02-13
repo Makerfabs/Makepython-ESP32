@@ -12,6 +12,9 @@ elif(sys.platform=="esp32"):
 elif(sys.platform=="pyboard"):
   currentBoard="pyboard"
   import pyb
+else:
+  currentBoard="esp32"
+
 # register definitions
 SET_CONTRAST        = const(0x81)
 SET_ENTIRE_ON       = const(0xa4)
