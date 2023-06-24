@@ -22,7 +22,7 @@ MakePython ESP32 is preloaded with MicroPython, simple and suitable for beginner
 
 - You can get one from: [Makepython-ESP32](https://www.makerfabs.com/makepython-esp32.html)
 
-- Hardware and detailed instructions please visit Wiki page:  [Makepython-ESP32 Wiki](https://www.makerfabs.com/wiki/index.php?title=MakePython_ESP32)
+- Hardware and detailed instructions please visit Wiki page:  [Makepython-ESP32 Wiki](https://wiki.makerfabs.com/MaESP_ESP32.html)
 
 # Related Projects
 
